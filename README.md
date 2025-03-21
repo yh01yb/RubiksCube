@@ -4,9 +4,9 @@ a simple cpp program that estimate the number of moves required to solve a rubik
 
 # Inputs
 
-![Image](https://github.com/user-attachments/assets/b3565608-19b6-482b-8256-d487d64cbdf1) enter colors for front face : YYWWWBWRB
+![Image](https://github.com/user-attachments/assets/b3565608-19b6-482b-8256-d487d64cbdf1)      enter colors for front face : YYWWWBWRB
 
-![Image](https://github.com/user-attachments/assets/647df01a-0fbf-43a9-bdfb-7607614b1379) enter color for right face : GWYYRWYWB
+![Image](https://github.com/user-attachments/assets/647df01a-0fbf-43a9-bdfb-7607614b1379)      enter color for right face : GWYYRWYWB
 
 ![Image](https://github.com/user-attachments/assets/0fbe8415-bd60-4efe-9bdd-b9624161882f) enter color for bottom face : RGWBGOOGY 
 
