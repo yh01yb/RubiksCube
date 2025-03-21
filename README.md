@@ -11,3 +11,5 @@ a simple cpp program that estimate the number of moves required to solve a rubik
 ![Image](https://github.com/user-attachments/assets/c53eb48c-fcd9-43ce-9f46-4ba77f93a52d)
 
 ![Image](https://github.com/user-attachments/assets/2c313eef-d1e8-4136-bde3-7be039e7a855)
+
+![Image](https://github.com/user-attachments/assets/f05e3512-923e-48df-9ba0-4337560794e1)
