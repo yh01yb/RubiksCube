@@ -10,17 +10,17 @@ enter colors for front face : YYWWWBWRB
 
 ![Image](https://github.com/user-attachments/assets/647df01a-0fbf-43a9-bdfb-7607614b1379)     
 
-enter color for right face : GWYYRWYWB
+enter colors for right face : GWYYRWYWB
 
 ![Image](https://github.com/user-attachments/assets/0fbe8415-bd60-4efe-9bdd-b9624161882f) 
 
-enter color for bottom face : RGWBGOOGY 
+enter colors for bottom face : RGWBGOOGY 
 
 ![Image](https://github.com/user-attachments/assets/fe4f16fd-c379-4364-b905-e85b6a2966b3) 
 
 enter colors for left face : RROOYRRBB
 
-enter color for top face : GYOYOBOOOB
+enter colors for top face : GYOYOBOOOB
 
 ![Image](https://github.com/user-attachments/assets/8e22f576-2c5f-47b6-99ab-4cadcefc175f)
 
